@@ -20,7 +20,7 @@ Software developer, researcher at University of Tokyo.
 * **[Udon](https://github.com/ocxtal/udon)**: a library for compact on-memory representation and fast streamed decoding of DNA sequence alignments; mainly for drawing pileups. (Rust)
 * **[dozeu](https://github.com/ocxtal/dozeu)**: SIMD-parallel protein and DNA sequence alignment library; Smith-Waterman-Gotoh extension on genome graphs with X-drop banding.
 * **[libgaba](https://github.com/ocxtal/libgaba)**: SIMD-parallel DNA sequence alignment library; Smith-Waterman-Gotoh extension with adaptive banding. ([https://doi.org/10.1186/s12859-018-2014-8](https://doi.org/10.1186/s12859-018-2014-8))
-* **[tinymasker](https://github.com/ocxtal/tinymasker)**: demonstration of de Bruijn index, a faster alternative to hash-table- or suffix-array-based k-mer indices.
+* **[tinymasker](https://github.com/ocxtal/tinymasker)**: demonstration of de Bruijn index, a faster alternative to hash-table- or suffix-array-based fixed-length string matching indices.
 * **[minialign](https://github.com/ocxtal/minialign)**: an experimental seed-and-extend DNA alignment tool, demonstration of fast dynamic programming implementation of libgaba.
 * **[xd](https://github.com/ocxtal/xd)**: ultrafast binary dump, SIMD-vectorized. for inspecting and debugging huge binary objects.
 * **[rbread.h](https://github.com/ocxtal/rbread)**: transparent reader for gzip, bz2, and xz.
