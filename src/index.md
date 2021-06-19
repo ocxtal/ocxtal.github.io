@@ -4,7 +4,7 @@
 
 <big><big>Hajime Suzuki</big></big>	<small>[@ocxtal](https://twitter.com/ocxtal) / suzuki.hajime.s@gmail.com</small>
 
-Software developer, researcher at University of Tokyo.
+Software engineer at LeapMind, inc.
 
 ## I am ...
 
@@ -46,26 +46,26 @@ Software developer, researcher at University of Tokyo.
 
 to be exact, they are beetles.
 
-<img src = "pic/haxy.5.png" align = "left" width = 480>
+<img src = "./pic/haxy.5.png" align = "left" width = 480>
 
 ★★★☆☆
 
-<img src = "pic/haxy.2.png" align = "left" width = 480>
+<img src = "./pic/haxy.2.png" align = "left" width = 480>
 
 ★★★☆☆
 
-<img src = "pic/haxy.1.png" align = "left" width = 480>
+<img src = "./pic/haxy.1.png" align = "left" width = 480>
 
 ★★★★☆
 
-<img src = "pic/haxy.4.png" align = "left" width = 480>
+<img src = "./pic/haxy.4.png" align = "left" width = 480>
 
 ★★☆☆☆
 
-<img src = "pic/haxy.3.png" align = "left" width = 480>
+<img src = "./pic/haxy.3.png" align = "left" width = 480>
 
 ★★★☆☆
 
 ##  
 
-updated on 2020/9/7, Hajime Suzuki
+updated on 2020/6/19, Hajime Suzuki
