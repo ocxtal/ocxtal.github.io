@@ -8,9 +8,8 @@ Software engineer at LeapMind, Inc.
 
 ## I am ...
 
-* SIMD / vectorization enthusiast, good at C with x86\_64 intrinsics.
+* SIMD / vectorization enthusiast, good at C and Rust with x86\_64 / arm64 intrinsics.
   * enjoying re-designing and tuning various algorithms for modern rich processors (with OoO, SIMD, and multi-level cache).
-* Recently getting used to: Rust and Arm64 assembly.
 * Sometimes work with Python, C++, shellscript, R, and so on...
 
 ## Works
@@ -59,6 +58,10 @@ to be exact, they are beetles.
 <img src = "./pic/haxy.1.png" align = "left" width = 480>
 
 ★★★★☆
+
+<img src = "./pic/haxy.6.png" align = "left" width = 480>
+
+★★★★★
 
 <img src = "./pic/haxy.4.png" align = "left" width = 480>
 
