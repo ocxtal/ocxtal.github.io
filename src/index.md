@@ -16,13 +16,14 @@ Software engineer at LeapMind, Inc.
 
 ### Software
 
+* **[nd](https://github.com/ocxtal/nd)**: streamed blob manipulator.
 * **[ge](https://github.com/ocxtal/ge)**: a tool to edit multiple text files at once in a single editor pane.
-* **[insn_bench_aarch64](https://github.com/ocxtal/insn_bench_aarch64)**: instruction latency-and-throuput profiler for Armv8 A64 processors.
+* **[insn_bench_aarch64](https://github.com/ocxtal/insn_bench_aarch64)**: instruction latency-and-throughput profiler for Armv8 A64 processors.
 * **[Udon](https://github.com/ocxtal/udon)**: a library for compact on-memory representation and fast streamed decoding of DNA sequence alignments; mainly for drawing pileups.
 * **[dozeu](https://github.com/ocxtal/dozeu)**: SIMD-parallel protein and DNA sequence alignment library; Smith-Waterman-Gotoh extension on genome graphs with X-drop banding.
 * **[libgaba](https://github.com/ocxtal/libgaba)**: SIMD-parallel DNA sequence alignment library; Smith-Waterman-Gotoh extension with adaptive banding. ([https://doi.org/10.1186/s12859-018-2014-8](https://doi.org/10.1186/s12859-018-2014-8))
 * **[tinymasker](https://github.com/ocxtal/tinymasker)**: demonstration of de Bruijn index, a faster alternative to hash-table- or suffix-array-based fixed-length string matching indices.
-* **[minialign](https://github.com/ocxtal/minialign)**: an experimental seed-and-extend DNA alignment tool, demonstration of fast dynamic programming implementation of libgaba.
+* **[minialign](https://github.com/ocxtal/minialign)**: an experimental seed-and-extend DNA alignment tool, demonstrating fast dynamic programming implementation of libgaba.
 * **[xd](https://github.com/ocxtal/xd)**: ultrafast binary dump, SIMD-vectorized. for inspecting and debugging huge binary objects.
 * **[rbread.h](https://github.com/ocxtal/rbread)**: transparent reader for gzip, bz2, and xz.
 
@@ -73,4 +74,4 @@ to be exact, they are beetles.
 
 ## 
 
-updated on 2022/8/21, Hajime Suzuki
+updated on 2022/9/25, Hajime Suzuki
