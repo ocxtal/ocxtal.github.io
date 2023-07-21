@@ -4,7 +4,7 @@
 
 <big><big>Hajime Suzuki</big></big>	<small>[@ocxtal](https://twitter.com/ocxtal) / suzuki.hajime.s@gmail.com</small>
 
-Software engineer at LeapMind, Inc.
+Software engineer at Preferred Networks, Inc.
 
 ## I am ...
 
@@ -72,6 +72,6 @@ to be exact, they are beetles.
 
 ★★★☆☆
 
-## 
+----
 
-updated on 2022/9/25, Hajime Suzuki
+updated on 2023/7/21, Hajime Suzuki
